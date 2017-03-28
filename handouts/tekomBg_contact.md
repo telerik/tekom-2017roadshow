@@ -59,7 +59,6 @@ ETC се провежда през последните 6 години и от 2
 1. tekom Европа   
   * Website @[http://www.technical-communication.org/](http://www.technical-communication.org/)        
   * Twitter @[https://twitter.com/tekom_Europe](https://twitter.com/tekom_Europe)    
-
 1. tekom България
   * Website @[http://www.technical-communication.org/bg/technical-communication-bulgaria.html](http://www.technical-communication.org/bg/technical-communication-bulgaria.html)  
   * Facebook @[https://www.facebook.com/evolutiontc/](https://www.facebook.com/evolutiontc/)  
