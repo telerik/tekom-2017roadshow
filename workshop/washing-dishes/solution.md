@@ -1,4 +1,4 @@
-# Wash the Dishes in the Dishawasher
+# Wash the Dishes in the Dishwasher
 
 ## Prerequisites
 
