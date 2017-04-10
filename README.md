@@ -19,5 +19,5 @@ The people on board who are working on the 2017 Roadshow project are:
 
 * Vanya Kiritzova, VMWare
 * Margarita Staneva, VMWare
-* Iva Koevska, Fredhopper
+* Iva Koevska, Attraqt
 * Desislava Mihaylova, Progress
