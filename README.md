@@ -8,8 +8,8 @@ The cities on the 2017 Roadshow agenda are:
 
 * Plovdiv&mdash;April 8, 2017
 * Vratsa&mdash;April 28, 2017
-* Blagoevgrad&mdash;May
-* Veliko Tarnovo&mdash;May
+* Veliko Tarnovo&mdash;May 27, 2017
+* Blagoevgrad&mdash;October
 * Varna&mdash;October
 * Burgas&mdash;October
 * Shumen&mdash;October
