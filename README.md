@@ -9,15 +9,16 @@ The cities on the 2017 Roadshow agenda are:
 * Plovdiv&mdash;April 8, 2017
 * Vratsa&mdash;April 28, 2017
 * Veliko Tarnovo&mdash;May 27, 2017
+* Rousse&mdash;September 30, 2017
 * Blagoevgrad&mdash;October
 * Varna&mdash;October
 * Burgas&mdash;October
 * Shumen&mdash;October
-* Rousse&mdash;October
 
-The people on board who are working on the 2017 Roadshow project are:
+
+The people on the 2017 Roadshow team are:
 
 * Vanya Kiritzova, VMWare
 * Margarita Staneva, VMWare
-* Iva Koevska, Attraqt
-* Desislava Mihaylova, Progress
+* Iva Koevska, ATTRAQT Fredhopper
+* Desislava Mihaylova, Progress Telerik
