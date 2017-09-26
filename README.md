@@ -10,13 +10,12 @@ The cities on the 2017 Roadshow agenda are:
 * Vratsa&mdash;April 28, 2017
 * Veliko Tarnovo&mdash;May 27, 2017
 * Rousse&mdash;September 30, 2017
-* Blagoevgrad&mdash;October
-* Varna&mdash;October
-* Burgas&mdash;October
-* Shumen&mdash;October
+* Blagoevgrad&mdash;2017
+* Varna&mdash;2017
+* Burgas&mdash;2017
+* Shumen&mdash;2017
 
-
-The people on the 2017 Roadshow team are:
+The team on the 2017 Roadshow are:
 
 * Vanya Kiritzova, VMWare
 * Margarita Staneva, VMWare
